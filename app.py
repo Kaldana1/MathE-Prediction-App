@@ -5,7 +5,7 @@ import pandas as pd
 # import joblib  # Pour charger ton modèle
 # import numpy as np
 # Message de bienvenu
-st.title("Mon Application Streamlit 🚀")
+st.title("KALDANA Application Streamlit 🚀")
 st.write("Bienvenue sur mon application déployée en ligne !")
 
 # Charger le modèle
