@@ -1,8 +1,8 @@
+import streamlit as st
+import pandas as pd
 # Message de bienvenu
 st.title("KALDANA Application MathE-Prediction 🚀")
 st.write("Bienvenue sur mon application déployée en ligne !")
-import streamlit as st
-import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import joblib  # Pour charger ton modèle
