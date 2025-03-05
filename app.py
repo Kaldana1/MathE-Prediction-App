@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 # import matplotlib.pyplot as plt
 # import seaborn as sns
-import joblib  # Pour charger ton modèle
-import numpy as np
+# import joblib  # Pour charger ton modèle
+# import numpy as np
 # Message de bienvenu
 st.title("Mon Application Streamlit 🚀")
 st.write("Bienvenue sur mon application déployée en ligne !")
